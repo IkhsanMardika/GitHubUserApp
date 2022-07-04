@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Github User</string>
+
+    <string name="search">Search</string>
+    <string name="search_hint">Enter username</string>
+
+    <string name="username">Username</string>
+    <string name="html_url">html_url</string>
+    <string name="name">Name</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="date">Date</string>
+
+    <string name="setting">Setting</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="theme">Theme</string>
+    <string name="dark_mode">Dark Mode</string>
+
+    <string name="user_not_found">User Not Found</string>
+    <string name="no_fav">"No Favorite User"</string>
+    <string name="no_followers">"No Followers"</string>
+    <string name="no_following">"No Following"</string>
+
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+
+</resources>
